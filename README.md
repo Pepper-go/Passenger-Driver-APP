@@ -1,4 +1,4 @@
-# QT基于Android+Libevent+MySQL+高德地图实现的移动端打车软件设计
+# 基于Android+Libevent+MySQL+高德地图实现的移动端打车软件设计
 
 - 前端界面由Android完成，后端服务器由Libevent搭建的https应用服务器作为架构中间件与数据存储服务器组成
 
